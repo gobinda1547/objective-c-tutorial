@@ -37,3 +37,17 @@ Here is all the objective c tutorial code, that I have made while learning
 
 
 
+#operator_example
+1. arithmatic operator
+2. relational operator
+3. misc operator
+4. logical operator
+5. bitwise operator
+
+
+
+
+
+
+
+
