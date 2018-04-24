@@ -29,6 +29,11 @@ Here is all the objective c tutorial code, that I have made while learning
 5. How to work with a Defined Object
 
 
+#premitive_type_variable_example
+1. all the variable example
+2. how to print them
+3. all the variable specifier
+4. all the variable actual size print
 
 
 
